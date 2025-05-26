@@ -59,7 +59,11 @@ A seguir, uma visão geral das principais etapas do projeto, apresentada de form
 
 ## Observação Final
 
-Este projeto apresenta uma implementação prática e bem estruturada de uma **Rede Neural Convolucional (CNN) construída do zero** para a classificação de espectrogramas Mel, com foco na detecção de sirenes em ambientes urbanos. Todo o fluxo — desde o pré-processamento dos dados até o salvamento do modelo final — foi desenvolvido de forma clara e progressiva, com cada etapa explicada e documentada diretamente no notebook, facilitando o entendimento e a reprodutibilidade.
+Este repositório apresenta uma implementação clara e didática de uma **Rede Neural Convolucional (CNN) para classificação de espectrogramas Mel**, com foco na detecção de sirenes.
+
+Todo o fluxo — do pré-processamento ao salvamento do modelo final — foi organizado de forma sequencial, facilitando a análise e reprodutibilidade do experimento.
+
+Este trabalho pode ser adaptado para outras categorias de sons, servindo como base para estudos em **reconhecimento de áudio e otimização de modelos para diferentes contextos de aplicação.**
 
 ---
 
