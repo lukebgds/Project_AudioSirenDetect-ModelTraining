@@ -6,6 +6,10 @@ Este repositório contém um notebook Jupyter que descreve de forma minuciosa o 
 
 A seguir, uma visão geral das principais etapas do projeto, apresentada de forma sucinta:
 
+### Ambiente
+- Python 3.12.9
+- Veja [`requirements.txt`](https://github.com/lukebgds/Project_AudioSirenDetect-ModelTraining/blob/main/requirements.txt) para as dependências
+
 ## 1. Pré-processamento do Dataset
 
 - **Bibliotecas utilizadas:**
@@ -53,7 +57,7 @@ A seguir, uma visão geral das principais etapas do projeto, apresentada de form
 
 - Modelo final (melhores pesos) salvo em `.h5`
 
-## Conclusão
+## Observação Final
 
 Este projeto apresenta uma implementação prática e bem estruturada de uma **Rede Neural Convolucional (CNN) construída do zero** para a classificação de espectrogramas Mel, com foco na detecção de sirenes em ambientes urbanos. Todo o fluxo — desde o pré-processamento dos dados até o salvamento do modelo final — foi desenvolvido de forma clara e progressiva, com cada etapa explicada e documentada diretamente no notebook, facilitando o entendimento e a reprodutibilidade.
 
